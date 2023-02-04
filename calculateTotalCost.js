@@ -2,7 +2,7 @@ const totalCost = (products) => {
       sum = 0;
 	for (var i = 0; i< products.length; i++){
 
-        console.log(products.price[i]);
+        console.log(products.price);
 
         // sum = sum + products.price[i];
         // console.log(sum); 
